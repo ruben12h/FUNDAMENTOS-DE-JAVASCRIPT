@@ -26,5 +26,5 @@ console.log(a--, 'decremento');
 //console.log(a,  'decremento');
 
 //for (let i = 5; i >0; i-- ){
-// console
-//         }
+// console.log(i);
+// }
